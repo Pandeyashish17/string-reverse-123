@@ -1,0 +1,26 @@
+{
+  "name": "string-reverse-123",
+  "version": "1.0.0",
+  "description": "reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandeyashish17/string-reverse-123.git"
+  },
+  "keywords": [
+    "string",
+    "reverse"
+  ],
+  "author": "ashish pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandeyashish17/string-reverse-123/issues"
+  },
+  "homepage": "https://github.com/Pandeyashish17/string-reverse-123#readme",
+  "dependencies": {
+    "string-reverse-123": "^1.0.0"
+  }
+}
